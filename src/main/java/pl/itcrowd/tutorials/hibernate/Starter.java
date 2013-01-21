@@ -50,6 +50,11 @@ public class Starter {
         departments.add(department1);
         departments.add(department2);
 
+//       Setup company properties
+        company.setName("Firma");
+        company.setDepartments(departments);
+        company.setAddress(address);
+
 
     }
 }
