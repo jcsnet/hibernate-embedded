@@ -10,6 +10,8 @@ import javax.ejb.Singleton;
 import javax.ejb.Startup;
 import javax.persistence.EntityManager;
 import javax.persistence.PersistenceContext;
+import java.util.ArrayList;
+import java.util.List;
 
 @Startup
 @Singleton
@@ -42,6 +44,12 @@ public class Starter {
         department2.setName("Departament nr 2");
         department2.setCompany(company);
         department2.setAddress(address);
+
+//       Creating departments list
+        List<Department> departments = new ArrayList<Department>();
+        departments.add(department1);
+        departments.add(department2);
+
 
     }
 }
