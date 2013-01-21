@@ -1,12 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="350835ae-5ebc-439d-b228-815b29a15c14" name="Default" comment="" />
+    <list default="true" id="350835ae-5ebc-439d-b228-815b29a15c14" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/pl/itcrowd/tutorials/hibernate/Starter.java" afterPath="$PROJECT_DIR$/src/main/java/pl/itcrowd/tutorials/hibernate/Starter.java" />
+    </list>
     <ignored path="hibernate_embedded.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="350835ae-5ebc-439d-b228-815b29a15c14" time="1358762126149" ignored="false" />
     <file path="/Departament.java" changelist="350835ae-5ebc-439d-b228-815b29a15c14" time="1358763394984" ignored="false" />
-    <file path="$PROJECT_DIR$/.idea/workspace.xml" changelist="350835ae-5ebc-439d-b228-815b29a15c14" time="1358763704232" ignored="false" />
+    <file path="$PROJECT_DIR$/.idea/workspace.xml" changelist="350835ae-5ebc-439d-b228-815b29a15c14" time="1358763882788" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,10 +76,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Starter.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="Starter.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/pl/itcrowd/tutorials/hibernate/Starter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="1" selection-start="140" selection-end="140" vertical-scroll-proportion="0.0">
+            <state line="21" column="51" selection-start="396" selection-end="396" vertical-scroll-proportion="0.45652175">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -118,10 +120,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Employee.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Employee.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/pl/itcrowd/tutorials/hibernate/Company/Employee.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="71" selection-start="216" selection-end="216" vertical-scroll-proportion="0.08695652">
+            <state line="24" column="41" selection-start="576" selection-end="576" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -148,12 +150,12 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/pl/itcrowd/tutorials/hibernate/Starter.java" />
         <option value="$PROJECT_DIR$/src/main/java/pl/itcrowd/tutorials/hibernate/Company/Address.java" />
         <option value="$PROJECT_DIR$/src/main/java/pl/itcrowd/tutorials/hibernate/Company/Departament.java" />
         <option value="$PROJECT_DIR$/src/main/java/pl/itcrowd/tutorials/hibernate/Company/Department.java" />
         <option value="$PROJECT_DIR$/src/main/java/pl/itcrowd/tutorials/hibernate/Company/Company.java" />
         <option value="$PROJECT_DIR$/src/main/java/pl/itcrowd/tutorials/hibernate/Company/Employee.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/itcrowd/tutorials/hibernate/Starter.java" />
       </list>
     </option>
   </component>
@@ -475,15 +477,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/itcrowd/tutorials/hibernate/Starter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="1" selection-start="140" selection-end="140" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pl/itcrowd/tutorials/hibernate/Company/Address.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="15" column="24" selection-start="319" selection-end="319" vertical-scroll-proportion="0.0">
@@ -513,7 +506,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pl/itcrowd/tutorials/hibernate/Company/Employee.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="71" selection-start="216" selection-end="216" vertical-scroll-proportion="0.08695652">
+        <state line="24" column="41" selection-start="576" selection-end="576" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/itcrowd/tutorials/hibernate/Starter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="51" selection-start="396" selection-end="396" vertical-scroll-proportion="0.45652175">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
