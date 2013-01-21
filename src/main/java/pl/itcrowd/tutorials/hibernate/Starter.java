@@ -29,5 +29,9 @@ public class Starter {
         Employee employee2 = new Employee();
         Employee employee3 = new Employee();
 
+        address.setCity("Tarnow");
+        address.setStreet("Krakowska");
+        address.setZipcode("123");
+
     }
 }
