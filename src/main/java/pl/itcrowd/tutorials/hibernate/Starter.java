@@ -55,6 +55,21 @@ public class Starter {
         company.setDepartments(departments);
         company.setAddress(address);
 
+//       Setup employees properties
+        employee1.setName("Pracownik nr 1");
+        employee1.setAddress(address);
+        employee1.setBoss(employee2);
+        employee1.setDepartment(department1);
+
+        employee2.setName("Pracownik nr 2");
+        employee2.setAddress(address);
+        employee2.setDepartment(department1);
+
+        employee3.setName("Pracownik nr 3");
+        employee3.setAddress(address);
+        employee3.setBoss(employee2);
+        employee3.setDepartment(department2);
+
 
     }
 }
