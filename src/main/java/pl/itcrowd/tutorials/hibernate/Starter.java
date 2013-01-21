@@ -70,6 +70,15 @@ public class Starter {
         employee3.setBoss(employee2);
         employee3.setDepartment(department2);
 
+//       Persist data
+        entityManager.persist(company);
+
+        entityManager.persist(department1);
+        entityManager.persist(department2);
+
+        entityManager.persist(employee1);
+        entityManager.persist(employee2);
+        entityManager.persist(employee3);
 
     }
 }

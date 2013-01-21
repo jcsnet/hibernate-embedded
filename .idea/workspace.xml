@@ -8,8 +8,8 @@
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="350835ae-5ebc-439d-b228-815b29a15c14" time="1358762126149" ignored="false" />
     <file path="/Departament.java" changelist="350835ae-5ebc-439d-b228-815b29a15c14" time="1358763394984" ignored="false" />
-    <file path="/Starter.java" changelist="350835ae-5ebc-439d-b228-815b29a15c14" time="1358764921240" ignored="false" />
-    <file path="$PROJECT_DIR$/.idea/workspace.xml" changelist="350835ae-5ebc-439d-b228-815b29a15c14" time="1358764931975" ignored="false" />
+    <file path="/Starter.java" changelist="350835ae-5ebc-439d-b228-815b29a15c14" time="1358764986132" ignored="false" />
+    <file path="$PROJECT_DIR$/.idea/workspace.xml" changelist="350835ae-5ebc-439d-b228-815b29a15c14" time="1358764993917" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +80,7 @@
       <file leaf-file-name="Starter.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/pl/itcrowd/tutorials/hibernate/Starter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="66" column="0" selection-start="2102" selection-end="2102" vertical-scroll-proportion="0.67391306">
+            <state line="72" column="21" selection-start="2293" selection-end="2293" vertical-scroll-proportion="0.6086956">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -516,7 +516,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pl/itcrowd/tutorials/hibernate/Starter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="66" column="0" selection-start="2102" selection-end="2102" vertical-scroll-proportion="0.67391306">
+        <state line="72" column="21" selection-start="2293" selection-end="2293" vertical-scroll-proportion="0.6086956">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
